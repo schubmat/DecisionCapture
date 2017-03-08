@@ -1,25 +1,25 @@
-# Issue -- Short Title
-**UserStory:** *ISSUE-TRACKING-NUMBER-999*
+# [Short Title of the Issue]
+**UserStory:** *[TICKET/ISSUE-NUMBER]*
 
-*Write one sentence describing the problem.*
+*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]*
 
 ## Considered Alternatives:
-* *Alternative 1*
-* *Alternative 2*
-* *Alternative 3*
+* [ALTERNATIVE 1]
+* [ALTERNATIVE 2]
+* [ALTERNATIVE 3]
 
 ## Conclusion
-* *Chosen Alternative: Alternative 1*
-* *If desired, elaborate on further rationale*
+* *Chosen Alternative: [ALTERNATIVE 1]*
+* *[FURTHER RATIONALE]* (Optional)
 
 ## Comparison (Optional)
 
-Alternative 1 | Alternative 2 | Alternative 3
+[ALTERNATIVE 1] | [ALTERNATIVE 2] | [ALTERNATIVE 3]
 ------------ | ------------- | -------------
-*+ advantage* | *+ advantage* | *+ advantage* 
-*+ advantage* | *+ advantage* | *+ advantage* 
-*+ advantage* | *+ advantage* | *+ advantage* 
+*+ [ARGUMENT PRO]* | *+ [ARGUMENT PRO]* | *+ [ARGUMENT PRO]* 
+*+ [ARGUMENT PRO]* | *+ [ARGUMENT PRO]* | *+ [ARGUMENT PRO]* 
+*+ [ARGUMENT PRO]* | *+ [ARGUMENT PRO]* | *+ [ARGUMENT PRO]* 
  |  | 
-*- disadvantage* | *- disadvantage* | *- disadvantage*
-*- disadvantage* | *- disadvantage* | *- disadvantage*
-*- disadvantage* | *- disadvantage* | *- disadvantage*
+*- [ARGUMENT CONTRA]* | *- [ARGUMENT CONTRA]* | *- [ARGUMENT CONTRA]* 
+*- [ARGUMENT CONTRA]* | *- [ARGUMENT CONTRA]* | *- [ARGUMENT CONTRA]* 
+*- [ARGUMENT CONTRA]* | *- [ARGUMENT CONTRA]* | *- [ARGUMENT CONTRA]* 
