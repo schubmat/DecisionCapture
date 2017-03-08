@@ -15,18 +15,18 @@
 ## Comparison (Optional)
 ### Alternative 1
 * *+ pro*
-* *+ pro *
-* *+ pro *
-* *- con *
-* *- con *
+* *+ pro*
+* *+ pro*
+* *- con*
+* *- con*
 
 ### Alternative 2
-* *+ pro *
-* *- con *
-* *- con *
+* *+ pro*
+* *- con*
+* *- con*
 
 ### Alternative 3
-* *+ pro *
-* *- con *
-* *- con *
+* *+ pro*
+* *- con*
+* *- con*
 
