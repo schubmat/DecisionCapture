@@ -14,19 +14,19 @@
 
 ## Comparison (Optional)
 ### Alternative 1
-* *+ pro*
-* *+ pro*
-* *+ pro*
-* *- con*
-* *- con*
+* *+ advantage*
+* *+ advantage*
+* *+ advantage*
+* *- disadvantage*
+* *- disadvantage*
 
 ### Alternative 2
-* *+ pro*
-* *- con*
-* *- con*
+* *+ advantage*
+* *- disadvantage*
+* *- disadvantage*
 
 ### Alternative 3
-* *+ pro*
-* *- con*
-* *- con*
+* *+ advantage*
+* *- disadvantage*
+* *- disadvantage*
 
