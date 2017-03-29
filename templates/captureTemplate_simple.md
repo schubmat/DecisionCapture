@@ -1,7 +1,7 @@
 # [Short Title of the Issue]
 **UserStory:** *[TICKET/ISSUE-NUMBER]*
 
-*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]*
+*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]* (Optional)
 
 ## Considered Alternatives:
 * [ALTERNATIVE 1]
@@ -19,7 +19,7 @@
 # [Short Title of the Issue]
 **UserStory:** *[TICKET/ISSUE-NUMBER]*
 
-*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]*
+*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]* (Optional)
 
 ## Considered Alternatives:
 * [ALTERNATIVE 1]
@@ -37,7 +37,7 @@
 # [Short Title of the Issue]
 **UserStory:** *[TICKET/ISSUE-NUMBER]*
 
-*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]*
+*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]* (Optional)
 
 ## Considered Alternatives:
 * [ALTERNATIVE 1]
