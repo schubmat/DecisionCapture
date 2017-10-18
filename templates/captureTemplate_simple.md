@@ -1,49 +1,16 @@
-# [Short Title of the Issue]
-**UserStory:** *[TICKET/ISSUE-NUMBER]*
+# <Short Title of the Issue>
 
-*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]* (Optional)
+**UserStory:** <TICKET/ISSUE-NUMBER>
 
-## Considered Alternatives:
-* [ALTERNATIVE 1]
-* [ALTERNATIVE 2]
-* [ALTERNATIVE 3]
-
-## Conclusion
-* *Chosen Alternative: [ALTERNATIVE 1]*
-* *[FURTHER RATIONALE]* (Optional)
-
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
-# [Short Title of the Issue]
-**UserStory:** *[TICKET/ISSUE-NUMBER]*
-
-*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]* (Optional)
+<WRITE ONE SENTENCE DESCRIBING THE PROBLEM.] (Optional)>
 
 ## Considered Alternatives:
-* [ALTERNATIVE 1]
-* [ALTERNATIVE 2]
-* [ALTERNATIVE 3]
+
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
 
 ## Conclusion
-* *Chosen Alternative: [ALTERNATIVE 1]*
-* *[FURTHER RATIONALE]* (Optional)
 
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
-# [Short Title of the Issue]
-**UserStory:** *[TICKET/ISSUE-NUMBER]*
-
-*[WRITE ONE SENTENCE DESCRIBING THE PROBLEM.]* (Optional)
-
-## Considered Alternatives:
-* [ALTERNATIVE 1]
-* [ALTERNATIVE 2]
-* [ALTERNATIVE 3]
-
-## Conclusion
-* *Chosen Alternative: [ALTERNATIVE 1]*
-* *[FURTHER RATIONALE]* (Optional)
+* *Chosen Alternative: <ALTERNATIVE 1>*
+* <FURTHER RATIONALE (Optional)>
