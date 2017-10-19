@@ -21,18 +21,18 @@ The goal of this document is to provide a fast overview on methods and templates
 
 <h2><a name="decisions">What decision are we talking about?</a></h2>
 
-As outlined above, we have no intention of telling someone what kind of decisions he/she should consider to be particularly important. Thus, decisions to capture by the team can be of any type. In order to give potential users of our idea and our templates an idea of what decisions can be made, we have compiled a list of possible decision types below. This has been deduced on the basis of existing literature as well as  student and industry studies we conducted. We think the list of decision types covers the majority of decisions that matter. Although there were still decisions in our studies which cannot be classified into the following types, the can be neglected based on their frequency. 
+As outlined above, we have no intention of telling someone what kind of decisions he/she should consider being particularly important. Thus, decisions to capture by the team can be of any type. In order to give potential users of our idea and our templates an idea of what decisions can be made, we have compiled a list of possible decision types below. This has been deduced on the basis of existing literature as well as student and industry studies we conducted. We think the list of decision types covers the majority of decisions that matter. Although there were still decisions in our studies which cannot be classified into the following types, the can be neglected based on their frequency. 
 
-* Decisions Regarding Development Tools – e.g., employed IDE, project management tools.
-* Architectural Decisions – e.g., interfaces definitions, architectural decisions. 
-* Technology Decisions – e.g., employed libraries and frameworks and its pros and cons.
-* Decisions on the Deployment Plattform – e.g., deployment process, Android vs. iOS.
-* Decisions on Features – e.g., add / refine / change / remove a requirement.
-* Decisions on Priorising User Stories – e.g., postpone, prepone or omit a user story.
-* Decisions on Software Quality Measures – e.g., schedule a refactoring, a review or similar.
-* Decisions Regarding the User Experience – e.g., revise the strategy for the user experience.
-* Decisions Regarding the Team Organisation – e.g., changes of roles, staff reshuffling, or similar.
-* Decisions on Software Development Process – e.g., restructure the sprint based on the outcome of the retrospective
+* Decisions regarding development tools – e.g., employed IDE, project management tools.
+* Architectural decisions – e.g., interfaces definitions, architectural decisions. 
+* Technology decisions – e.g., employed libraries and frameworks and its pros and cons.
+* Decisions on the deployment plattform – e.g., deployment process, Android vs. iOS.
+* Decisions on features – e.g., add / refine / change / remove a requirement.
+* Decisions on priorising User Stories – e.g., postpone, prepone or omit a user story.
+* Decisions on software quality measures – e.g., schedule a refactoring, a review or similar.
+* Decisions regarding the user experience – e.g., revise the strategy for the user experience.
+* Decisions regarding the team prganisation – e.g., changes of roles, staff reshuffling, or similar.
+* Decisions on software development process – e.g., restructure the sprint based on the outcome of the retrospective
 
 <h2><a name="decision-templates">Decision capture example templates</a></h2>
 
