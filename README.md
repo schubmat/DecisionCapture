@@ -4,8 +4,7 @@
 * [Example templates](#decision-templates)
 * [How to start capturing decision](#how-to-start-capturing)
 * [How to start capturing decision with tools](#how-to-start-capturing-with-tools)
-* [How to start capturing decision with git](#how-to-start-using-adrs-with-git)
-* [ADR file name conventions](#adr-file-name-conventions)
+* [How to start capturing decision with git](#how-to-start-capturing-decisions-with-git)
 * [Contributing](#contributing)
 * [Sources](#sources)
 
@@ -52,7 +51,7 @@ TODO
 
 TODO 
 
-<h2><a name="how-to-start-using-adrs-with-git">How to start capturing and using decisions with git?</a></h2>
+<h2><a name="how-to-start-capturing-decisions-with-git">How to start capturing decisions with git?</a></h2>
 
 TODO
 
@@ -62,9 +61,7 @@ Your comments and suggestions are welcome.
 
 You can open a GitHub issue, or create a pull request, or email M.Schubanz@b-tu.com.
 
-
 <h2><a name="sources">Sources</a></h2>
-
 
 Other templates:
 
