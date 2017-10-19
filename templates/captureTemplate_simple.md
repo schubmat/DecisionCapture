@@ -2,9 +2,9 @@
 
 **UserStory:** <TICKET/ISSUE-NUMBER>
 
-<WRITE ONE SENTENCE DESCRIBING THE PROBLEM.] (Optional)>
+<WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
 
-## Considered Alternatives:
+## Considered Alternatives
 
 * <ALTERNATIVE 1>
 * <ALTERNATIVE 2>
