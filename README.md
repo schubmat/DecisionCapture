@@ -60,7 +60,7 @@ TODO
 
 Your comments and suggestions are welcome.
 
-You can open a GitHub issue, or create a pull request, or email M.Schubanz@b-tu.com.
+You can open a GitHub issue, or create a pull request, or email M.Schubanz@b-tu.de.
 
 <h2><a name="sources">Sources</a></h2>
 
