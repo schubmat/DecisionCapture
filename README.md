@@ -1,4 +1,4 @@
-# Making Decision Sustainable in Agile Software Development
+# Making Decisions Sustainable in Agile Software Development
 
 * [Introduction](#introduction)
 * [Example templates](#decision-templates)
