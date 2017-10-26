@@ -57,7 +57,7 @@
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
-# How do integrate Captchas in our software?
+# How to integrate Captchas in our software?
 **UserStory:** *[TICKET/ISSUE-NUMBER]*
 
 ## Considered Alternatives:
@@ -171,7 +171,7 @@
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
-# Is the application platform still fitting our needs?
+# Does the application platform still meet our requirements?
 **UserStory:** *[TICKET/ISSUE-NUMBER]*
 
 ## Considered Alternatives:
