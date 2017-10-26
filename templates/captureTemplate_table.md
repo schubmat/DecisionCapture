@@ -1,4 +1,4 @@
-# <Short Title of the Issue>
+# \<Short Title of the Issue\>
 
 **UserStory:** <TICKET/ISSUE-NUMBER>
 
