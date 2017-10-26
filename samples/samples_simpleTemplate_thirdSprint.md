@@ -129,7 +129,7 @@
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
-# How do we realise new functionality in our game software?
+# How will we realise new features in our game?
 **UserStory:** *[TICKET/ISSUE-NUMBER]*
 
 ## Considered Alternatives:
