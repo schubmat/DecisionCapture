@@ -15,9 +15,10 @@
 This repository is used to publish and share templates and guidelines on capturing and using decision in agile software development. It is part of our research on decision management in agile software development. Unlike the approach of [joelparkerhenderson](https://github.com/joelparkerhenderson/architecture_decision_record/), we do not only focus on [architectural decisions](https://github.com/joelparkerhenderson/architecture_decision_record/#introduction) but on decisions being important to the development team. Thus, we consider every development related decision to be potentially important. Nevertheless, these are often architectural decisions.
 
 
-According to the agile principle 'The best architectures, requirements, and designs emerge from self-organizing teams' we assume that the team does know best what is an important decision and what is not (further elaboration can be found in the [decisions section](#decisions)). Nevertheless, we also encourage you to read [joelparkerhenderson's elaboration](https://github.com/joelparkerhenderson/architecture_decision_record/#introduction) on architectural decisions, if you are interested in the topic of managing decision. More literature on the topic of architectural knowledge management can be found [further down](#sources).
+According to the agile principle 'The best architectures, requirements, and designs emerge from self-organizing teams' we assume that the team does know best what is an important decision and what is not. Thus, we only provide an examplary list of decisions types from previous studies with industry partners and students ([see decisions section](#decisions)). Nevertheless, we also encourage you to read [joelparkerhenderson's elaboration](https://github.com/joelparkerhenderson/architecture_decision_record/#introduction) on architectural decisions, if you are interested in the topic of managing decision. More literature on the topic of architectural knowledge management can be found [further down](#sources).
 
-The goal of this document is to provide a fast overview of methods and templates of capturing decisions in agile software development, how to create them, and where to look for more information.
+The goal of this document is to provide a quick overview of methods and templates of capturing decisions in agile software development, how to create them, and where to look for more information.
+
 
 
 <h2><a name="decisions">What decision are we talking about?</a></h2>
