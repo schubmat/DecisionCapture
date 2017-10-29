@@ -22,7 +22,7 @@ The goal of this document is to provide a fast overview of methods and templates
 
 <h2><a name="decisions">What decision are we talking about?</a></h2>
 
-As outlined above, we have no intention of telling someone what kind of decisions he/she should consider being particularly important. Thus, decisions to capture by the team can be of any type. In order to give potential users of our idea and our templates an idea of what decisions can be made, we have compiled a list of possible decision types below. This has been deduced on the basis of existing literature as well as student and industry studies we conducted. We think the list of decision types covers the majority of decisions that matter. Although there were still decisions in our studies which cannot be classified into the following types, the can be neglected based on their frequency. 
+As outlined above, we have no intention of telling someone what kind of decisions he/she should consider being particularly important. Thus, decisions to capture by the team can be of any type. In order to give you some help anyway, we have put together an exemplary list of decisions as follows:
 
 * Decisions regarding development tools – e.g., employed IDE, project management tools.
 * Architectural decisions – e.g., interfaces definitions, architectural decisions. 
@@ -34,6 +34,8 @@ As outlined above, we have no intention of telling someone what kind of decision
 * Decisions regarding the user experience – e.g., revise the strategy for the user experience.
 * Decisions regarding the team prganisation – e.g., changes of roles, staff reshuffling, or similar.
 * Decisions on software development process – e.g., restructure the sprint based on the outcome of the retrospective
+
+The list has been deduced on the basis of existing literature as well as student and industry studies we conducted. Precisely because there were decisions that we could not classify, the list does not claim to be complete. Nevertheless, the absolute majority of decisions recorded in our studies are represented by the above list.
 
 <h2><a name="decision-templates">Decision capture example templates</a></h2>
 
