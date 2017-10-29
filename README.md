@@ -43,8 +43,8 @@ The list has been deduced on the basis of existing literature as well as student
 In the following listing you can find links to three templates for capturing decisions. We currently use them for experiments with students and industry practitioners. 
 
 * [Simple template](templates/captureTemplate_simple.md) (Provides ...)
-* [Extensive template](captureTemplate_full.md) (Provides ...)
-* [Table-based template](captureTemplate_table.md) (Provides ...)
+* [Extensive template](templates/captureTemplate_full.md) (Provides ...)
+* [Table-based template](templates/captureTemplate_table.md) (Provides ...)
 
 
 <h2><a name="how-to-start-capturing">How to start capturing decisions?</a></h2>
